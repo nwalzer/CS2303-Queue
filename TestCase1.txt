@@ -1,0 +1,17 @@
+Arguments: 100 10 60 2.3 1
+
+One Queue per Teller:
+
+A total of 100 customers were served in a total of 222.775879 minutes
+There were 10 tellers utilizing one queue per teller
+On average a customer spent 2.920907 minutes in the bank. The standard deviation is 1.649288
+The maximum wait time for a customer was 5.233070
+The tellers served for a total of 222.775879 minutes and were idle for a total of 377.224274 minutes
+
+Single Shared Queue:
+
+A total of 100 customers were served in a total of 230.652039 minutes
+There were 10 tellers utilizing a shared queue
+On average a customer spent 2.875033 minutes in the bank. The standard deviation is 2.875032
+The maximum wait time for a customer was 1.792154
+The tellers served for a total of 230.652039 minutes and were idle for a total of 369.347961 minutes
